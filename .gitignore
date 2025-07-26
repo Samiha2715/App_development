@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # dependencies
 node_modules/
 
@@ -33,3 +34,6 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+=======
+node_modules
+>>>>>>> Stashed changes
